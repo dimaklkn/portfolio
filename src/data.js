@@ -6,6 +6,7 @@ import udarnik from "./images/udarnik.png";
 import contractions from "./images/contractions.png";
 import votecard from "./images/votecard.png";
 import filterstable from "./images/filter-table.png";
+import cardSample02 from "./images/card-sample-02.png";
 
 const projectsData = [
   {
@@ -62,6 +63,13 @@ const projectsData = [
     title: "Таблица с фильтрами",
     image: filterstable,
     projectLink: "https://table-with-filters.netlify.app/",
+    text: "Челлендж с icodethis.com",
+  },
+  {
+    id: "cardSample02",
+    title: "CSS HTML сниппет",
+    image: cardSample02,
+    projectLink: "https://card-samle-02.netlify.app/",
     text: "Челлендж с icodethis.com",
   },
 ];
