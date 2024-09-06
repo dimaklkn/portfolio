@@ -8,6 +8,7 @@ import votecard from "./images/votecard.png";
 import filterstable from "./images/filter-table.png";
 import cardSample02 from "./images/card-sample-02.png";
 import searchbar from "./images/searchbar.png";
+import chatbox from "./images/chatbox.png";
 
 const projectsData = [
   {
@@ -78,6 +79,13 @@ const projectsData = [
     title: "CSS HTML сниппет",
     image: searchbar,
     projectLink: "https://searchbar23.netlify.app/",
+    text: "Челлендж с icodethis.com",
+  },
+  {
+    id: "chatbox",
+    title: "CSS HTML сниппет",
+    image: chatbox,
+    projectLink: "https://chatbox23.netlify.app/",
     text: "Челлендж с icodethis.com",
   },
 ];
