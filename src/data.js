@@ -9,8 +9,16 @@ import filterstable from "./images/filter-table.png";
 import cardSample02 from "./images/card-sample-02.png";
 import searchbar from "./images/searchbar.png";
 import chatbox from "./images/chatbox.png";
+import drozzi from "./images/drozzi.png";
 
 const projectsData = [
+  {
+    id: "drozzi",
+    title: "Link website",
+    image: drozzi,
+    projectLink: "https://drozzi-test.netlify.app/",
+    text: "Проект по дизайну Figma",
+  },
   {
     id: "udarnik",
     title: "Газета Ударник",
