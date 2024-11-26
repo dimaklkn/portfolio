@@ -203,7 +203,7 @@ h3 {
   background: transparent;
   border: 0;
   cursor: pointer;
-  position: absolute;
+  position: fixed;
   right: 1em;
   top: 0.5em;
   z-index: 1000;
