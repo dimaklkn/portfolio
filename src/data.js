@@ -10,8 +10,16 @@ import cardSample02 from "./images/card-sample-02.png";
 import searchbar from "./images/searchbar.png";
 import chatbox from "./images/chatbox.png";
 import drozzi from "./images/drozzi.png";
+import littleLearners from "./images/little-learners.png";
 
 const projectsData = [
+  {
+    id: "littleLearners",
+    title: "Little-Learners website",
+    image: littleLearners,
+    projectLink: "https://little-learn.netlify.app/",
+    text: "Проект по дизайну Figma. Тут я впервые сделал 'уплывающий` навбар, а также в карусель знает, если юзер меняет ширину экрана",
+  },
   {
     id: "drozzi",
     title: "Link website",
