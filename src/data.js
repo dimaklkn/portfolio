@@ -11,6 +11,7 @@ import searchbar from "./images/searchbar.png";
 import chatbox from "./images/chatbox.png";
 import drozzi from "./images/drozzi.png";
 import littleLearners from "./images/little-learners.png";
+import contactcard from "./images/contactcard.png";
 
 const projectsData = [
   {
@@ -33,6 +34,13 @@ const projectsData = [
     image: udarnik,
     projectLink: "https://udarnik-furmanov.netlify.app/",
     text: "Проект стилизован под советскую газету Ударник, которая выпускалась в г.Фурманове вплоть до 1953года. Выбирая нужный год можно посмотреть какие события происходили в городе в это время. Сайт оптимизирован для мобильной версии.",
+  },
+  {
+    id: "contactcard",
+    title: "Визитка",
+    image: contactcard,
+    projectLink: "https://dima-online.netlify.app/",
+    text: "Минималистичная визитка",
   },
   {
     id: "papers",
